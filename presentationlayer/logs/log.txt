@@ -1,0 +1,625 @@
+ERROR 2017-08-14 13:47:14,495 612659ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-08-14 13:57:10,254 1208418ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-08-14 15:13:16,142 5774307ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-08-14 15:14:49,249 5867413ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-08-16 14:00:25,638 260880ms DataEntryForm          erByDocumentTypeId - Sequence contains no elements
+ERROR 2017-08-16 14:06:10,188 68842ms DataEntryForm          erByDocumentTypeId - Sequence contains no elements
+ERROR 2017-08-16 14:07:00,146 118800ms DataEntryForm          erByDocumentTypeId - Sequence contains no elements
+ERROR 2017-08-16 14:09:13,692 252346ms DataEntryForm          erByDocumentTypeId - Sequence contains no elements
+ERROR 2017-08-16 14:09:33,372 272026ms DataEntryForm          erByDocumentTypeId - Sequence contains no elements
+ERROR 2017-08-16 14:10:22,683 321337ms DataEntryForm          erByDocumentTypeId - Sequence contains no elements
+ERROR 2017-08-16 14:12:17,925 436579ms DataEntryForm          erByDocumentTypeId - Sequence contains no elements
+ERROR 2017-08-16 14:17:46,903 765557ms DataEntryForm          erByDocumentTypeId - Sequence contains no elements
+ERROR 2017-08-16 14:35:14,267 1812921ms QCDataEntry            UpdateOperation    - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+ERROR 2017-08-16 14:41:47,957 225513ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-08-16 15:18:28,329 1535582ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-08-25 11:49:43,691 803461ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-08-25 14:01:31,781 41961ms UserLogin              btnLogin_Click     - The underlying provider failed on Open.
+ERROR 2017-08-25 14:39:54,684 539985ms DataEntryForm          UpdateOperation    - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+ERROR 2017-08-25 14:40:42,500 587801ms DataEntryForm          UpdateOperation    - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+ERROR 2017-08-25 14:44:26,001 811302ms DataEntryForm          UpdateOperation    - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+ERROR 2017-08-25 15:05:43,883 2089184ms DataEntryForm          UpdateOperation    - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+ERROR 2017-08-25 15:30:42,521 1293670ms DataEntryForm          btnSignOut_Click   - The underlying provider failed on Open.
+ERROR 2017-08-25 15:31:07,277 1318427ms UserLogin              btnLogin_Click     - The underlying provider failed on Open.
+ERROR 2017-08-25 16:20:11,146 745502ms DataEntryForm          btnSignOut_Click   - The underlying provider failed on Open.
+ERROR 2017-08-25 16:36:58,329 41133ms UserLogin              btnLogin_Click     - The underlying provider failed on Open.
+ERROR 2017-08-26 14:26:34,976 17407ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-08-26 14:27:40,950 83381ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-08-26 15:04:10,786 2273217ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-08-28 04:57:11,129 7533646ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-08-28 07:10:18,766 325435ms DataEntryForm          erUserNameByUserId - Sequence contains no elements
+ERROR 2017-08-28 07:10:19,521 326190ms DataEntryForm          PageLoad           - An error occurred while executing the command definition. See the inner exception for details.
+ERROR 2017-08-29 12:02:56,990 48584ms UserLogin              btnLogin_Click     - The underlying provider failed on Open.
+ERROR 2017-08-29 14:33:55,161 2794048ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-08-29 20:34:01,109 128100ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-08-29 20:35:16,466 203458ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-08-29 21:08:37,040 2204032ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-09-01 17:00:02,654 2487475ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-09-05 19:00:05,467 789475ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-09-05 19:16:12,238 1756245ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-09-05 19:24:55,064 2279071ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-09-06 17:48:44,616 4371197ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-09-09 19:28:13,447 1255713ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-09-13 14:10:46,716 1199926ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-09-18 12:40:21,911 51642ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-09-18 13:08:58,518 24053ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-09-18 13:11:28,512 89416ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-09-18 13:26:01,014 40923ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-09-18 18:07:31,679 1618763ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-09-18 18:45:22,581 1972757ms UserLogin              btnLogOut_Click    - Sequence contains no elements
+ERROR 2017-09-19 17:12:40,761 20229ms DataEntryForm          btnSignOut_Click   - Sequence contains no elements
+ERROR 2017-09-19 17:40:55,655 69718ms DataEntryForm          btnNext_Click      - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-09-19 17:41:02,812 76874ms DataEntryForm          btnNext_Click      - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-09-19 17:59:34,628 233737ms DataEntryForm          AddOperation       - Error converting value {null} to type 'System.Int32'. Path '[0].OrderBy', line 1, position 176.
+ERROR 2017-09-19 18:00:21,848 280957ms DataEntryForm          AddOperation       - Error converting value {null} to type 'System.Int32'. Path '[0].OrderBy', line 1, position 176.
+ERROR 2017-09-19 18:23:19,003 1658112ms DataEntryForm          AddOperation       - Error converting value {null} to type 'System.Int32'. Path '[0].OrderBy', line 1, position 176.
+ERROR 2017-09-19 20:43:12,318 70866ms UserLogin              btnLogin_Click     - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MlUserDetail]'. Path '', line 1, position 23.
+ERROR 2017-09-19 20:51:20,886 559435ms DataEntryForm          erUserNameByUserId - The underlying provider failed on Open.
+ERROR 2017-09-19 20:51:20,985 559533ms DataEntryForm          PageLoad           - The underlying provider failed on Open.
+ERROR 2017-09-19 20:52:06,718 605266ms DataEntryForm          btnSignOut_Click   - The underlying provider failed on Open.
+ERROR 2017-09-19 20:52:12,884 611432ms DataEntryForm          erUserNameByUserId - The underlying provider failed on Open.
+ERROR 2017-09-19 20:52:12,898 611446ms DataEntryForm          PageLoad           - The underlying provider failed on Open.
+ERROR 2017-09-19 20:52:16,397 614945ms DataEntryForm          btnSignOut_Click   - The underlying provider failed on Open.
+ERROR 2017-09-19 20:56:03,711 842259ms DataEntryForm          erUserNameByUserId - The underlying provider failed on Open.
+ERROR 2017-09-19 20:56:03,742 842290ms DataEntryForm          PageLoad           - The underlying provider failed on Open.
+ERROR 2017-09-19 20:57:56,990 955538ms DataEntryForm          btnSignOut_Click   - The underlying provider failed on Open.
+ERROR 2017-09-19 20:59:10,887 1029436ms DataEntryForm          erUserNameByUserId - The underlying provider failed on Open.
+ERROR 2017-09-19 20:59:10,898 1029446ms DataEntryForm          PageLoad           - The underlying provider failed on Open.
+ERROR 2017-09-20 02:21:08,508 125759ms DataEntryForm          skAssignmentUserId - The underlying provider failed on Open.
+ERROR 2017-09-20 02:40:22,299 39620ms DataEntryForm          erByDocumentTypeId - Error converting value {null} to type 'System.Int32'. Path '[0].RoboActivitiesID', line 1, position 151.
+ERROR 2017-09-20 02:40:22,526 39847ms DataEntryForm          taByDocumentTypeId - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-09-20 02:41:24,348 101669ms DataEntryForm          skAssignmentUserId - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-09-20 02:53:12,720 810041ms DataEntryForm          skAssignmentUserId - Object reference not set to an instance of an object.
+ERROR 2017-09-20 03:26:08,418 68215ms DataEntryForm          skAssignmentUserId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.TempTaskAssignmentNew]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-20 04:48:49,305 79762ms DataEntryForm          skAssignmentUserId - Error converting value {null} to type 'System.Int32'. Path '[0].CustomerID', line 1, position 92.
+ERROR 2017-09-20 04:54:12,677 403133ms DataEntryForm          skAssignmentUserId - Error converting value {null} to type 'System.Int32'. Path '[0].CustomerID', line 1, position 92.
+ERROR 2017-09-20 05:25:13,530 259446ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-20 05:44:02,286 67127ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-20 06:12:14,887 428063ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:15,318 428495ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:15,578 428755ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:15,955 429132ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:16,202 429378ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:16,455 429632ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:16,700 429877ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:17,068 430245ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:17,300 430476ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:17,543 430720ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:17,820 430997ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:18,199 431376ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:18,442 431618ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:18,691 431867ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:18,959 432136ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:19,204 432381ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:19,620 432796ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:19,899 433076ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:20,145 433322ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:20,423 433600ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:20,767 433944ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:21,018 434195ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:21,273 434450ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:21,571 434748ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:21,953 435130ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:22,208 435384ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:22,458 435634ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:22,720 435897ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:23,134 436311ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:23,395 436572ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:24,026 437203ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:24,303 437479ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:24,590 437767ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:24,852 438029ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:25,241 438417ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:25,500 438677ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:25,762 438939ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:26,021 439198ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:26,404 439581ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:26,659 439835ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:26,928 440105ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:27,193 440370ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:27,582 440759ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:27,867 441043ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:28,193 441370ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:28,486 441662ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:28,849 442026ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:29,129 442306ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:29,429 442606ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:29,720 442896ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:30,152 443329ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:30,433 443610ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:30,707 443884ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:31,073 444249ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:31,359 444536ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:31,654 444831ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:31,936 445113ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:32,338 445515ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:32,609 445786ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:32,924 446101ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:33,219 446395ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:33,635 446812ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:33,918 447095ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:34,220 447396ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:34,618 447794ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:12:34,907 448084ms DataEntryForm          DefaultValue       - Insufficient stack to continue executing the program safely. This can happen from having too many functions on the call stack or function on the stack using too much stack space.
+ERROR 2017-09-20 06:14:12,140 36250ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-20 06:37:55,029 36160ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-20 06:53:40,344 981476ms DataEntryForm          erByDocumentTypeId - Error converting value {null} to type 'System.Int32'. Path '[0].RoboActivitiesID', line 1, position 146.
+ERROR 2017-09-20 07:24:08,323 2809454ms DataEntryForm          erByDocumentTypeId - Value cannot be null.
+Parameter name: inner
+ERROR 2017-09-20 07:37:57,125 87781ms DataEntryForm          erByDocumentTypeId - Error converting value {null} to type 'System.Int32'. Path '[0].RoboActivitiesID', line 1, position 146.
+ERROR 2017-09-20 07:51:16,622 887278ms DataEntryForm          erByDocumentTypeId - Error converting value {null} to type 'System.Int32'. Path '[0].RoboActivitiesID', line 1, position 143.
+ERROR 2017-09-20 21:42:18,899 15098ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-20 21:55:28,676 35688ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-20 21:55:44,567 51579ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-20 21:56:23,172 90184ms DataEntryForm          erByDocumentTypeId - Error converting value {null} to type 'System.Int32'. Path '[0].RoboActivitiesID', line 1, position 143.
+ERROR 2017-09-20 22:02:48,174 475187ms DataEntryForm          PageLoad           - Input string was not in a correct format.
+ERROR 2017-09-21 03:06:43,990 17817496ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 03:06:52,537 17826043ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 03:06:55,714 17829220ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 03:13:12,048 18205554ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 03:13:55,238 18248744ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 03:26:39,296 19012801ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 03:27:21,443 19054948ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 03:32:24,003 19357509ms DataEntryForm          chDataForBothUsers - Sequence contains more than one element
+ERROR 2017-09-21 03:32:51,121 19384626ms DataEntryForm          chDataForBothUsers - Sequence contains more than one element
+ERROR 2017-09-21 14:28:48,210 89498ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 14:28:50,792 92080ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 14:31:19,672 240961ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 14:32:59,544 340833ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 14:34:27,910 429198ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 14:34:49,973 451262ms DataEntryForm          chDataForBothUsers - Sequence contains more than one element
+ERROR 2017-09-21 15:19:27,018 58006ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 15:23:44,048 315036ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 15:27:45,995 556983ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 15:42:09,995 1420982ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 20:19:09,032 250541ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 20:19:42,577 284086ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 20:20:54,683 356192ms DataEntryForm          chDataForBothUsers - Sequence contains more than one element
+ERROR 2017-09-21 20:22:17,697 439206ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 20:22:40,324 461833ms DataEntryForm          chDataForBothUsers - Sequence contains more than one element
+ERROR 2017-09-21 20:23:02,902 484411ms DataEntryForm          chDataForBothUsers - Sequence contains more than one element
+ERROR 2017-09-21 20:24:17,547 559057ms DataEntryForm          chDataForBothUsers - Sequence contains more than one element
+ERROR 2017-09-21 20:31:07,833 969342ms DataEntryForm          chDataForBothUsers - Sequence contains more than one element
+ERROR 2017-09-21 20:35:00,000 1201509ms DataEntryForm          chDataForBothUsers - Sequence contains more than one element
+ERROR 2017-09-21 20:35:58,525 1260034ms DataEntryForm          chDataForBothUsers - Sequence contains more than one element
+ERROR 2017-09-21 20:39:29,272 1470781ms DataEntryForm          chDataForBothUsers - Sequence contains more than one element
+ERROR 2017-09-21 20:45:13,720 1815229ms DataEntryForm          chDataForBothUsers - Sequence contains more than one element
+ERROR 2017-09-21 20:45:41,512 1843022ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 20:47:18,953 1940462ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 20:49:21,629 2063138ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 20:50:06,010 2107519ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 20:50:12,408 2113917ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 20:52:15,002 2236512ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 22:00:30,452 6331961ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 22:02:54,395 6475905ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 22:05:31,240 6632749ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 22:10:41,143 6942653ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 22:20:33,020 168343ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 22:24:48,584 92134ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 22:31:35,783 132540ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 22:34:16,175 292932ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 22:34:31,588 308345ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-21 22:35:06,699 343456ms DataEntryForm          taByDocumentTypeId - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.DynamicControlResponse]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-09-22 00:33:42,158 7458915ms DataEntryForm          chDataForBothUsers - Sequence contains more than one element
+ERROR 2017-09-22 00:35:56,917 7593674ms DataEntryForm          chDataForBothUsers - Sequence contains more than one element
+ERROR 2017-09-22 00:40:25,193 7861950ms QCDataEntry            erByDocumentTypeId - Value cannot be null.
+Parameter name: inner
+ERROR 2017-09-22 00:40:27,494 7864252ms QCDataEntry            erByDocumentTypeId - Value cannot be null.
+Parameter name: inner
+ERROR 2017-09-22 00:40:29,332 7866089ms eviousEmploymentDetail mployeementDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-22 00:40:29,431 7866189ms eviousEmploymentDetail mployeementDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-22 00:40:29,464 7866221ms QCDataEntry            erByDocumentTypeId - Value cannot be null.
+Parameter name: inner
+ERROR 2017-09-22 00:40:32,873 7869630ms QCDataEntry            erByDocumentTypeId - Value cannot be null.
+Parameter name: inner
+ERROR 2017-09-22 00:40:34,918 7871676ms eviousEmploymentDetail mployeementDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-22 00:40:35,003 7871760ms eviousEmploymentDetail mployeementDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-22 00:40:35,063 7871820ms QCDataEntry            erByDocumentTypeId - Value cannot be null.
+Parameter name: inner
+ERROR 2017-09-22 00:40:37,391 7874148ms QCDataEntry            erByDocumentTypeId - Value cannot be null.
+Parameter name: inner
+ERROR 2017-09-22 00:40:39,331 7876089ms QCDataEntry            erByDocumentTypeId - Value cannot be null.
+Parameter name: inner
+ERROR 2017-09-22 00:40:41,042 7877799ms UsrDriverLicenceDetail iverLicenceDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-22 00:40:41,137 7877895ms UsrDriverLicenceDetail iverLicenceDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-22 00:40:41,171 7877928ms QCDataEntry            erByDocumentTypeId - Value cannot be null.
+Parameter name: inner
+ERROR 2017-09-22 00:40:42,883 7879640ms PreviousEmployerDetail ousEmployerDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-22 00:40:42,901 7879659ms PreviousEmployerDetail ousEmployerDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-22 00:40:42,918 7879676ms CurrentResidenceDetail ntResidenceDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-22 00:40:42,936 7879694ms reviousResidenceDetail usResidenceDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-22 00:40:42,953 7879711ms afficConvictionsDetail ConvictionsDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-22 00:40:43,059 7879816ms PreviousEmployerDetail ousEmployerDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-22 00:40:43,077 7879834ms PreviousEmployerDetail ousEmployerDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-22 00:40:43,095 7879852ms CurrentResidenceDetail ntResidenceDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-22 00:40:43,109 7879866ms reviousResidenceDetail usResidenceDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-22 00:40:43,132 7879889ms afficConvictionsDetail ConvictionsDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-22 00:40:43,177 7879934ms QCDataEntry            erByDocumentTypeId - Value cannot be null.
+Parameter name: inner
+ERROR 2017-09-22 15:54:43,740 2755410ms UserLogin              btnLogOut_Click    - Sequence contains no elements
+ERROR 2017-09-22 17:19:41,284 7852954ms UserLogin              btnLogOut_Click    - Sequence contains no elements
+ERROR 2017-09-25 13:55:00,765 55267ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-25 13:55:04,304 58806ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-25 14:52:52,540 30285ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-25 14:53:31,088 68834ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-25 14:53:51,146 88892ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-25 15:05:37,495 795241ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-25 15:05:55,327 813073ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-25 15:07:47,077 924823ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-25 15:08:24,172 961918ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-25 15:09:57,850 1055596ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-25 15:22:49,588 54388ms DataEntryForm          erByDocumentTypeId - Unable to cast object of type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]' to type 'System.IConvertible'.
+ERROR 2017-09-25 15:23:04,090 68889ms DataEntryForm          erByDocumentTypeId - Unable to cast object of type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]' to type 'System.IConvertible'.
+ERROR 2017-09-25 18:19:21,491 20722ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-25 18:26:51,091 24805ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-25 18:27:09,620 43333ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-25 18:27:25,993 59706ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-25 18:33:53,991 149031ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-25 18:35:48,097 263137ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-25 18:51:57,183 80352ms DataEntryForm          AddOperation       - String was not recognized as a valid DateTime.
+ERROR 2017-09-25 18:52:35,095 118264ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-25 18:52:38,733 121902ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-25 18:57:58,436 441604ms DataEntryForm          AddOperation       - String was not recognized as a valid DateTime.
+ERROR 2017-09-25 18:59:37,216 540385ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-25 19:02:04,990 688159ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-25 19:02:16,424 699593ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-25 19:02:39,801 722970ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-25 19:02:44,760 727929ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-25 19:14:01,462 268674ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-26 15:05:18,088 192273ms DataEntryForm          btnNext_Click      - Object reference not set to an instance of an object.
+ERROR 2017-09-26 15:09:50,383 147714ms DataEntryForm          btnNext_Click      - Object reference not set to an instance of an object.
+ERROR 2017-09-26 15:10:08,510 165842ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-26 15:19:05,500 702831ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-26 15:30:56,194 1413526ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-26 15:35:53,625 1710956ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-26 15:37:33,166 1810497ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-26 15:38:31,988 1869320ms DataEntryForm          erByDocumentTypeId - Object reference not set to an instance of an object.
+ERROR 2017-09-26 15:41:06,951 2024282ms DataEntryForm          PageLoad           - Input string was not in a correct format.
+ERROR 2017-09-26 16:11:34,937 353461ms DataEntryForm          PageLoad           - Input string was not in a correct format.
+ERROR 2017-09-26 16:30:09,039 1467564ms UserLogin              btnLogin_Click     - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MlUserDetail]'. Path '', line 1, position 23.
+ERROR 2017-09-26 16:30:10,020 1468545ms UserLogin              btnLogin_Click     - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MlUserDetail]'. Path '', line 1, position 23.
+ERROR 2017-09-26 16:40:46,312 2104837ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-26 17:02:43,278 3421803ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-26 18:46:14,952 31175ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 18:46:48,406 64629ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 18:47:12,743 88966ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 18:47:21,503 97726ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 18:47:48,230 124453ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 18:48:00,926 137149ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:00:04,568 14404ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:01:55,853 125688ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:01:57,069 126904ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:01:58,129 127964ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:02:09,626 139461ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:02:12,033 141869ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:08:53,457 543292ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:08:54,587 544423ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:08:56,380 546215ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:08:57,644 547479ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:08:59,078 548914ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:08:59,251 549086ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:08:59,928 549763ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:21:11,305  6435ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:21:12,478  7608ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:28:07,617  5984ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:28:24,784 23151ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:28:55,358 53725ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:29:03,967 62334ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:29:26,882 85249ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:29:36,203 94570ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:30:20,473 138840ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:31:44,310 222677ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:33:05,238 303604ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:33:10,178 308545ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:38:46,400 644767ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:38:55,011 653378ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:39:02,745 661112ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:39:28,800 687167ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-09-26 19:39:42,389 700756ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:52:32,207 1470574ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:56:11,911 1690278ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:58:15,613 1813980ms DataEntryForm          btnNext_Click      - Object reference not set to an instance of an object.
+ERROR 2017-09-26 19:58:25,081 1823448ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-26 20:00:43,879 1962246ms DataEntryForm          trol_ItemDataBound - Object reference not set to an instance of an object.
+ERROR 2017-09-26 20:13:14,605 2712972ms DataEntryForm          PageLoad           - Input string was not in a correct format.
+ERROR 2017-09-26 20:17:14,582 2952949ms DataEntryForm          PageLoad           - Input string was not in a correct format.
+ERROR 2017-09-27 00:21:15,995 12799067ms UsrConvictionDetails   dConvictionDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-27 00:21:23,580 12806652ms UsrConvictionDetails   dConvictionDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-27 00:21:38,723 12821795ms UsrConvictionDetails   dConvictionDetails - Value cannot be null.
+Parameter name: baseUrl
+ERROR 2017-09-27 00:48:13,386 144618ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 00:48:38,087 169319ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 00:50:51,899 303132ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 00:50:57,796 309029ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 01:06:10,727 189905ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 01:07:11,016 250194ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 01:13:13,886 613064ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 01:13:19,380 618558ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 01:55:18,815 231568ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 01:56:17,627 290379ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 01:56:20,597 293350ms DataEntryForm          btnNext_Click      - Object reference not set to an instance of an object.
+ERROR 2017-09-27 01:56:38,246 310999ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 01:56:40,914 313667ms DataEntryForm          btnNext_Click      - Object reference not set to an instance of an object.
+ERROR 2017-09-27 01:57:22,007 354760ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 01:58:17,551 410304ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 02:00:03,945 516698ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 02:06:56,731 929484ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 02:07:04,839 937592ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 02:14:29,280 170015ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 02:14:43,378 184114ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 03:05:00,102 1778515ms UsrConvictionDetails   Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-27 14:31:59,087 549377ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-27 14:32:07,399 557689ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-27 14:32:17,272 567561ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-27 19:27:50,004 27290ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-27 19:27:53,360 30646ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-27 19:27:57,354 34640ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-27 19:31:01,512 218798ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-27 19:48:48,256 121540ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 12:38:13,156 31717ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 12:38:19,755 38315ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 12:45:39,988 228220ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 12:45:51,146 239378ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 12:48:17,502 28868ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 12:50:31,340 27030ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 12:54:35,320 21152ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 12:56:18,294 124126ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 12:56:27,670 133502ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 13:05:33,370 426816ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 13:05:34,431 427877ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 13:08:25,293 598738ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 13:10:24,550 24972ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 13:10:34,127 34548ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 13:10:45,971 46392ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 13:15:35,407 39529ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 13:15:59,416 63538ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 13:16:00,585 64707ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 13:26:23,354 204435ms DataEntryForm          erByDocumentTypeId - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 14:07:25,359 141425ms DataEntryForm          alidationOperation - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 14:07:26,054 142121ms DataEntryForm          btnNext_Click      - Input string was not in a correct format.
+ERROR 2017-09-28 14:09:11,910 247977ms DataEntryForm          alidationOperation - Error converting value "Internal Server Error" to type 'System.Collections.Generic.List`1[MiddleLayer.MIDocumentType]'. Path '', line 1, position 23.
+ERROR 2017-09-28 14:09:12,541 248608ms DataEntryForm          btnNext_Click      - Input string was not in a correct format.
+ERROR 2017-09-28 14:21:08,958 965025ms PreviousEmployerDetail Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-28 14:21:08,985 965052ms PreviousEmployerDetail Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-28 14:21:09,005 965072ms CurrentResidenceDetail Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-28 14:21:09,033 965100ms reviousResidenceDetail Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-28 14:21:09,052 965119ms afficConvictionsDetail Page_Load          - Object reference not set to an instance of an object.
+ERROR 2017-09-28 16:23:07,034 13539ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-28 17:10:31,264 20421ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-28 17:13:09,670 178827ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-28 17:13:16,480 185638ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-09-28 17:14:38,306 27510ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-28 17:14:49,379 38583ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-28 17:14:54,184 43388ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-09-29 21:11:05,257 20540ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-09-29 21:11:40,123 55406ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-09-29 21:11:57,539 72822ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-09-29 21:16:21,759 337042ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-09-29 21:21:42,681 35389ms UserLogin              btnLogin_Click     - Length cannot be less than zero.
+Parameter name: length
+ERROR 2017-09-29 21:23:36,538 149247ms UserLogin              btnLogin_Click     - Length cannot be less than zero.
+Parameter name: length
+ERROR 2017-09-29 21:26:25,947 24957ms UserLogin              btnLogin_Click     - Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+ERROR 2017-09-29 21:26:43,898 42908ms UserLogin              btnLogin_Click     - Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+ERROR 2017-09-29 21:27:28,338 87348ms UserLogin              btnLogin_Click     - Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+ERROR 2017-09-29 21:28:01,168 120178ms UserLogin              btnLogin_Click     - Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+ERROR 2017-09-29 22:06:43,670 133965ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-09-29 22:07:07,335 157631ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-09-29 22:08:18,749 229045ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-09-29 22:09:11,421 281717ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-09-30 11:44:43,112 19020ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-09-30 11:44:51,184 27092ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-09-30 11:45:07,167 43075ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-09-30 11:56:10,914 18172ms UserLogin              btnLogin_Click     - Could not load file or assembly 'Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed' or one of its dependencies. The located assembly's manifest definition does not match the assembly reference. (Exception from HRESULT: 0x80131040)
+ERROR 2017-09-30 12:00:29,738 45660ms UserLogin              btnLogOut_Click    - Sequence contains no elements
+ERROR 2017-09-30 13:17:17,119 160782ms UserLogin              btnLogOut_Click    - Sequence contains no elements
+ERROR 2017-09-30 14:44:38,464 47703ms UserLogin              btnLogOut_Click    - Sequence contains no elements
+ERROR 2017-09-30 22:38:21,782 60586ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-10-01 12:42:23,184 11817ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-10-01 12:51:12,562  8600ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-10-01 12:51:19,892 15930ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-10-01 12:51:25,750 21788ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-10-01 13:00:45,640 39260ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-10-01 13:34:32,085 14219ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-10-01 13:34:45,788 27922ms UserLogin              btnLogin_Click     - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: startIndex
+ERROR 2017-10-02 01:39:06,936 11436ms DataEntryForm          skAssignmentUserId - Object reference not set to an instance of an object.
+ERROR 2017-10-02 01:45:23,174 12284ms DataEntryForm1         skAssignmentUserId - Object reference not set to an instance of an object.
+ERROR 2017-10-02 01:45:51,158 40268ms DataEntryForm1         skAssignmentUserId - Object reference not set to an instance of an object.
+ERROR 2017-10-02 01:49:29,347 258458ms DataEntryForm1         skAssignmentUserId - Object reference not set to an instance of an object.
+ERROR 2017-10-02 01:50:48,104  6117ms DataEntryForm          skAssignmentUserId - Object reference not set to an instance of an object.
+ERROR 2017-10-02 01:51:52,854 70867ms DataEntryForm          skAssignmentUserId - Object reference not set to an instance of an object.
+ERROR 2017-10-02 01:59:34,579 532593ms DataEntryForm          PageLoad           - Object reference not set to an instance of an object.
+ERROR 2017-10-02 01:59:34,590 532604ms DataEntryForm          skAssignmentUserId - Object reference not set to an instance of an object.
+ERROR 2017-10-02 01:59:36,864 534877ms DataEntryForm          skAssignmentUserId - Object reference not set to an instance of an object.
+ERROR 2017-10-02 17:27:39,319 17145ms DataEntryForm          skAssignmentUserId - Object reference not set to an instance of an object.
+ERROR 2017-10-02 18:07:24,613 492979ms UserLogin              btnLogOut_Click    - The underlying provider failed on Open.
+ERROR 2017-10-02 18:07:47,373 515739ms DataEntryForm          skAssignmentUserId - Object reference not set to an instance of an object.
+ERROR 2017-10-02 22:04:40,717 168749ms UserLogin              btnLogOut_Click    - The underlying provider failed on Open.
+ERROR 2017-10-03 00:58:40,598 743624ms UserLogin              btnLogOut_Click    - The underlying provider failed on Open.
+ERROR 2017-10-03 01:14:11,163 758905ms UserLogin              btnLogOut_Click    - The underlying provider failed on Open.
+ERROR 2017-10-03 23:47:55,417 28409ms UserLogin              btnLogOut_Click    - The underlying provider failed on Open.
+ERROR 2017-10-03 23:49:22,495 39249ms UserLogin              btnLogOut_Click    - The underlying provider failed on Open.
+ERROR 2017-10-03 23:50:27,349 104103ms UserLogin              btnLogOut_Click    - The underlying provider failed on Open.
+ERROR 2017-10-03 23:51:20,867 12469ms UserLogin              btnLogOut_Click    - The underlying provider failed on Open.
+ERROR 2017-10-04 00:51:23,713 29044ms UserLogin              btnLogOut_Click    - The underlying provider failed on Open.
+ERROR 2017-10-04 22:00:57,335 426161ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-10-04 22:59:05,174 392494ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-04 22:59:13,557 400876ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-05 00:57:34,273 662056ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-05 02:55:16,527 1102595ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-05 19:39:42,835 4852662ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-06 05:07:15,373 768788ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-06 05:27:07,541 1960957ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-06 12:00:54,902 279604ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-07 00:09:12,715 4918715ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-10-07 00:09:23,059 4929060ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-10-07 00:09:39,180 4945180ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-10-07 00:10:03,556 4969556ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-10-07 00:10:43,022 5009022ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-10-07 00:12:22,664 5108665ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-10-07 00:12:48,491 5134492ms UserLogin              btnLogin_Click     - Object reference not set to an instance of an object.
+ERROR 2017-10-07 15:18:41,665 6882672ms QCDataEntry            skAssignmentUserId - Object reference not set to an instance of an object.
+ERROR 2017-10-07 15:18:50,832 6891839ms QCDataEntry            DefaultValue       - 'ddlCustomer' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value
+ERROR 2017-10-07 15:18:50,869 6891876ms QCDataEntry            skAssignmentUserId - Object reference not set to an instance of an object.
+ERROR 2017-10-07 15:20:52,971 32206ms UserLogin              btnLogin_Click     - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.MlUserDetail]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-10-07 15:21:03,715 42950ms UserLogin              btnLogin_Click     - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.MlUserDetail]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-10-07 15:21:13,922 53158ms UserLogin              btnLogin_Click     - Cannot deserialize the current JSON object (e.g. {"name":"value"}) into type 'System.Collections.Generic.List`1[MiddleLayer.MlUserDetail]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.
+To fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.
+Path 'Message', line 1, position 11.
+ERROR 2017-10-07 15:22:54,516 63035ms QCDataEntry            skAssignmentUserId - Object reference not set to an instance of an object.
+ERROR 2017-10-07 15:23:18,455 86974ms QCDataEntry            DefaultValue       - 'ddlCustomer' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value
+ERROR 2017-10-07 15:23:18,507 87026ms QCDataEntry            skAssignmentUserId - Object reference not set to an instance of an object.
+ERROR 2017-10-07 15:23:29,180 97698ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-07 15:33:42,479 101580ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-07 17:25:21,777 6667666ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-07 23:36:11,221 642045ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-08 17:17:36,937 33253ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-08 17:18:10,574 66891ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-08 17:21:10,328 246644ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-08 17:21:22,150 258467ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-08 17:30:17,366 151912ms UserLogin              btnLogOut_Click    - No connection string named 'DQFEntities' could be found in the application config file.
+ERROR 2017-10-08 22:48:10,985 91497ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-10-08 22:52:55,874 14372ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-10-08 22:58:44,621 97656ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-10-08 22:58:51,862 104897ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-10-08 23:01:34,243 267278ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-10-08 23:01:41,091 274126ms UserLogin              btnLogOut_Click    - Thread was being aborted.
+ERROR 2017-10-09 11:52:35,868 153208ms UserLogin              btnLogOut_Click    - Thread was being aborted.

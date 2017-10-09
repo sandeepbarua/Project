@@ -1,0 +1,109 @@
+﻿
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin2.master.cs" Inherits="PresentationLayer.Admin.Admin2" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<meta charset="UTF-8">
+    <head>
+<link href="../../Admin/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="../../Admin/vendor/bootstrap/css/bootstrap-select.min.css" rel="stylesheet"/>
+<link href="../../Admin/vendor/fa/css/font-awesome.min.css" rel="stylesheet"/>
+<link rel="stylesheet" type="text/css" href="../../admin/styles/mainCSS.css" />  
+<script type="text/javascript" charset="utf8" src="//code.jquery.com/jquery-1.10.2.min.js"></script>  
+<script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.0/js/jquery.dataTables.js"></script>  
+
+<!-- Custom styles for this template -->
+<link href="../../Admin/css/main.css" rel="stylesheet"/>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+<header>
+    <div class="row">
+    <div class="col-lg-2">
+      <div class="logoimg"><img src="../../admin/images/logo_header.png" width="" height="" alt="" class="img-fluid"/></div>
+    </div>
+    <div class="col-lg-10">
+      <div class="row ">
+        <div class="col-lg-6">
+          <div class="row">
+            <div id="MANAGEUser" runat="server" class="col-lg-3">
+              <div class="box" id="AccessUserManageUser" runat="server"><a href="<%= Page.ResolveUrl("~/Admin/UserDetail.aspx") %>"><img src="../../admin/images/mange_user.png" width="60" height="60" alt=""/><br>
+                MANAGE USERS</a></div>
+            </div>
+            <div id="Template" runat="server" class="col-lg-3">
+              <div class="box" id="AccessUserTemplateEngine" runat="server"><a href="<%= Page.ResolveUrl("~/Admin/Template/TemplateDocumnetType.aspx") %>"><img src="../../admin/images/manage_customers.png" width="60" height="60" alt=""/><br>
+               TEMPLATE ENGINE</a></div>
+            </div>
+            <div id="LOCATION" runat="server" class="col-lg-3">
+              <div class="box" id="AccessUserAuditEngine" runat="server"><a href="<%= Page.ResolveUrl("~/Admin/AuditEngine/TamplateAuditQuestion.aspx") %>"><img src="../../admin/images/locations.png" width="60" height="60" alt=""/><br>
+              AUDIT ENGINE</div>
+            </div>
+            <div id="DOCUMENT" runat="server" class="col-lg-3">
+              <div class="box" id="AccessUserCustomer" runat="server"><a href="<%= Page.ResolveUrl("~/Admin/Customers.aspx") %>"><img src="../../admin/images/Documents.png" width="60" height="60" alt=""/><br>
+               CONFIGURE CLIENT</a></div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-6">
+          <div class="row">
+           
+            <div id="EXCEPTION" runat="server" class="col-lg-3">
+              <div class="box" id="AccessUserExceptionData" runat="server"><a href="<%= Page.ResolveUrl("~/Admin/ExceptionData.aspx") %>"><img src="../../admin/images/exceptions.png" width="60" height="60" alt=""/><br>
+                
+                EXCEPTION QUEUE</a></div>
+            </div>
+            <div id="REPORTS" runat="server" class="col-lg-3">
+              <div class="box"><a href="#"><img src="../../admin/images/reports.png" width="60" height="60" alt=""/><br>
+                REPORTS</a></div>
+            </div>
+              <div id="clone" runat="server" class="col-lg-3">
+              <div class="box"><a href="#"><img src="../../admin/images/manage_customers.png" width="60" height="60" alt=""/><br>
+                CLONE CLIENT</a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<div id="wrapper">
+  <div class="row no-gutters">
+     <div class="col-lg-2 sidebar-wrapper nomargin">
+      <div class="user_sidebar_text text-center"> <asp:Label runat="server" ID="welcomeLabel" Text="Welcome Admin"></asp:Label> 
+                                	| <asp:LinkButton ID="btnLogOut" runat="server" Text="Logout" OnClick="btnLogOut_Click"  ></asp:LinkButton>      </div>
+     
+    </div>
+    <div class="col-lg-10 page-content-wrapper">
+       
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+
+        
+        
+        </asp:ContentPlaceHolder>
+      
+      </div>
+    </div>
+  </div>
+
+<div style="background: #fffff; ">
+  <div class="row no-gutters">
+    <div class="col-lg-2"></div>
+    <div class="col-lg-10">
+      <div class="row no-gutters topmargin30">
+        <div class="col-lg-6"><img src="../../admin/images/fadv.png" width="" height="" alt="" class="img-fluid"/></div>
+        <div class="col-lg-6 float-right">Developed by: <img src="../../admin/images/gic.png" width="" height="" alt="" class="img-fluid"/></div>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="../../Admin/vendor/jquery/jquery.js"></script> 
+<script src="../../Admin/vendor/bootstrap/js/bootstrap.min.js"></script> 
+<script src="../../Admin/vendor/bootstrap/js/bootstrap-select.min.js"></script>
+        
+        </form>
+</body>
+</html>
+

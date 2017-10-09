@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9a95824e1dc6485e8d39dd45e4d2070a" Name="Diagram1">
+        <EntityTypeShape EntityType="DQF_ProdModel.AccidentRecordDetail" Width="1.5" PointX="8.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.AuditQuestion" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.AuditRuleClassification" Width="1.5" PointX="9.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.CEDPreviousEmployerDetail" Width="1.5" PointX="10.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.CMS_CPScreenData" Width="1.5" PointX="11.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.CMS_CPScreenData_Temp" Width="1.5" PointX="5.25" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.ConvictionDetail" Width="1.5" PointX="12.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.CurrentEmployerDetail" Width="1.5" PointX="7.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.CurrentResidenceDetail" Width="1.5" PointX="9.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.CustomerDetail" Width="1.5" PointX="3" PointY="13.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.DocumentType" Width="2" PointX="3" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.DocumentTypeEntryDetail" Width="1.5" PointX="12.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.DriverLicenceDetail" Width="1.5" PointX="13.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.DriverLicenseStatusDetail" Width="1.5" PointX="0.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.DropDownValueText" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.DynamicControl" Width="1.5" PointX="5.25" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.DynamicControlValue" Width="1.5" PointX="7.5" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.ErrorLog" Width="1.5" PointX="14.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.ExcelErrorLog" Width="1.5" PointX="14.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.Exception_FormData" Width="1.5" PointX="11.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.FormData" Width="1.5" PointX="14.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.LebellingLog" Width="1.5" PointX="15.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.Location" Width="1.5" PointX="0.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.LoginDetail" Width="1.5" PointX="3" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.PreviousEmployerDetail" Width="1.5" PointX="16.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.PreviousEmploymentDetail" Width="1.5" PointX="7.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.PreviousResidenceDetail" Width="1.5" PointX="16.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.RoboActivity" Width="1.5" PointX="16.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.TaskOperation" Width="1.5" PointX="13.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.TempTaskAssignment" Width="1.5" PointX="6" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.TempTaskMatchDetail" Width="1.5" PointX="16.75" PointY="15.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.TrafficConvictionsDetail" Width="1.5" PointX="2.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.TypeOfEquipmentDetail" Width="1.5" PointX="4.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.UserDetail" Width="1.5" PointX="0.75" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.BarchartData" Width="1.5" PointX="9.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.DE_stat_table" Width="1.5" PointX="18.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.Document_Table_Relation" Width="1.5" PointX="18.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.DriverFilesValue" Width="1.5" PointX="18.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.Exception_CPScreenData" Width="1.5" PointX="18.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.FaxidProcessingSummry" Width="1.5" PointX="15.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.FormDataBackup" Width="1.5" PointX="17.75" PointY="18.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DQF_ProdModel.MVRExpirationDateLogic" Width="1.5" PointX="11.75" PointY="19.75" IsExpanded="true" />
+        <AssociationConnector Association="DQF_ProdModel.FK_CMS_CPScreenData_Temp_CustomerDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="DQF_ProdModel.FK_DynamicControlValue_CMS_CPScreenData_Temp" ManuallyRouted="false" />
+        <AssociationConnector Association="DQF_ProdModel.FK_TempTaskAssignment_CMS_CPScreenData_Temp" ManuallyRouted="false" />
+        <AssociationConnector Association="DQF_ProdModel.FK_DocumentType_UserDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="DQF_ProdModel.FK_DynamicControl_DocumentType" ManuallyRouted="false" />
+        <AssociationConnector Association="DQF_ProdModel.FK_DynamicControlValue_DynamicControl" ManuallyRouted="false" />
+        <AssociationConnector Association="DQF_ProdModel.FK_LoginDetails_UserDetails" ManuallyRouted="false" />
+        <AssociationConnector Association="DQF_ProdModel.FK_TempTaskAssignment_UserDetails" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

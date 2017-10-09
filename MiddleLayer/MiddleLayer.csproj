@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7519253F-D55C-4636-B728-7737E4193588}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MiddleLayer</RootNamespace>
+    <AssemblyName>MiddleLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccidentRecordDetail.cs" />
+    <Compile Include="AuditRuleClassification.cs" />
+    <Compile Include="CEDPreviousEmployerDetail.cs" />
+    <Compile Include="ConvictionDetail.cs" />
+    <Compile Include="CurrentEmployerDetail.cs" />
+    <Compile Include="CurrentResidenceDetail.cs" />
+    <Compile Include="DriverLicenceDetail.cs" />
+    <Compile Include="DriverLicenseStatusDetail.cs" />
+    <Compile Include="LoginAudit.cs" />
+    <Compile Include="MIAuditQuestionFunction.cs" />
+    <Compile Include="MIDoctumentType.cs" />
+    <Compile Include="MIDocumentType.cs" />
+    <Compile Include="MlAuditQuestion.cs" />
+    <Compile Include="MlAuditQuestionRule.cs" />
+    <Compile Include="MlAuditRule.cs" />
+    <Compile Include="MlCEDPreviousEmployerDetail.cs" />
+    <Compile Include="MlConvictionDetail.cs" />
+    <Compile Include="MlCPScreenData.cs" />
+    <Compile Include="MlCurrentResidenceDetails.cs" />
+    <Compile Include="MlCustomerDetails.cs" />
+    <Compile Include="MlDocumentRelationTemp.cs" />
+    <Compile Include="MlDriverLicenceDetail.cs" />
+    <Compile Include="MlDynamicControl.cs" />
+    <Compile Include="MlDynamicControlValue.cs" />
+    <Compile Include="MLException_CPScreenData.cs" />
+    <Compile Include="MlException_FormData.cs" />
+    <Compile Include="MlFaxIdDumo.cs" />
+    <Compile Include="MlField.cs" />
+    <Compile Include="MlLocation.cs" />
+    <Compile Include="MlLogin.cs" />
+    <Compile Include="MlPreviousEmployerDetail.cs" />
+    <Compile Include="MlPreviousEmploymentDetail.cs" />
+    <Compile Include="MlPreviousResidenceDetail.cs" />
+    <Compile Include="MlQC.cs" />
+    <Compile Include="MlRptRobotProcess.cs" />
+    <Compile Include="MlTaskOperation.cs" />
+    <Compile Include="MlTempFieldInfoID.cs" />
+    <Compile Include="MlTrafficConvictionsDetails.cs" />
+    <Compile Include="MlUserDetail.cs" />
+    <Compile Include="MlUserDetails.cs" />
+    <Compile Include="MlUserLoginDetail.cs" />
+    <Compile Include="PreviousEmployerDetail.cs" />
+    <Compile Include="PreviousEmploymentDetail.cs" />
+    <Compile Include="PreviousResidenceDetail.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="MlTempTaskAssignment.cs" />
+    <Compile Include="StringDataMamber.cs" />
+    <Compile Include="TrafficConvictionsDetail.cs" />
+    <Compile Include="TypeOfEquipmentDetails.cs" />
+    <Compile Include="UserControlClass.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
