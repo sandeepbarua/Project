@@ -53,7 +53,7 @@
     <div class="login-logo"> <img src="Admin/Images/logo_header.png" width="250" height="100" alt="" /> </div>
     <!-- /.login-logo -->
     <div class="login-box-body">
-      <p class="login-box-msg">Sign in to start your session</p>
+      <p class="login-box-msg">paji kade hass be liya karo.....................</p>
         
        <asp:ValidationSummary 
             ID="ValidationSummary1" 
