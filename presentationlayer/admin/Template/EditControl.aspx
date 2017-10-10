@@ -12,7 +12,7 @@
                     <div class="col-lg-8">
                         <div class="row" >
                             <div class="col-lg-3" >
-                               <label>Template Name</label>
+                               <label>Template</label>
                             </div>
                             <div class="col-lg-5">
                               <asp:Label ID="ddlDocumentType" runat="server" class="form-control"></asp:Label>
